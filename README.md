@@ -33,7 +33,7 @@ Folder Structure:
 
 Modules Used:
   
-  1. app-rrot-path => For getting root path of app.
+  1. app-root-path => For getting root path of app.
   2. config => For configuration setting of the app.
   3. crypto-js => For encryption, decryption and hashing purposes.
   4. express => Used as a framework.
