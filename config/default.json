@@ -1,0 +1,10 @@
+{
+  "PORT": 4001,
+  "mongoDb": {
+    "MONGO_URI": "mongodb://localhost:27017/my-notes",
+    "user": "abc",
+    "password": "abc",
+    "poolSize": 5
+  },
+  "tokenExpiry": "15m"
+}
