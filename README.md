@@ -29,7 +29,7 @@ Folder Structure:
   6. middlewares => Contains all the custom middlewares example authentication (auth), response middleware etc.
   7. models => Contains mongoose schemas and models.
   8. routes => Contains all the routing files.
-  9.validation => Contains all the validation files uses Joi for validation.
+  9. validation => Contains all the validation files uses Joi for validation.
 
 Modules Used:
   
