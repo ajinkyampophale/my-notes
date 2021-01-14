@@ -63,3 +63,5 @@ Build With:
   1. Node.js
   2. Express.js
   3. Mongodb
+
+PS: Have kept public.pem, private.pem and default.json files without excluding for ease of understanding.
